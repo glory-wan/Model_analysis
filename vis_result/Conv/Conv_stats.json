@@ -1,0 +1,7 @@
+{
+    "model": "Conv",
+    "Parameters(M)": 0.001856,
+    "FLOPs(G)": 0.099549184,
+    "average_time(ms)": 974.3791023890177,
+    "device": "CUDA: (Quadro RTX 4000, 8191MiB)"
+}

@@ -1,0 +1,7 @@
+{
+    "model": "CIB",
+    "Parameters(M)": 0.005985,
+    "FLOPs(G)": 0.326294528,
+    "average_time(ms)": 0.0,
+    "device": "CUDA: (Quadro RTX 4000, 8191MiB)"
+}

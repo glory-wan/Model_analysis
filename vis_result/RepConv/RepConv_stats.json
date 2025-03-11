@@ -1,0 +1,7 @@
+{
+    "model": "RepConv",
+    "Parameters(M)": 0.002176,
+    "FLOPs(G)": 0.122028032,
+    "average_time(ms)": 27.396559715270996,
+    "device": "CUDA: (Quadro RTX 4000, 8191MiB)"
+}

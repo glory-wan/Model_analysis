@@ -1,0 +1,7 @@
+{
+    "model": "mobilenet_v2",
+    "Parameters(M)": 3.504872,
+    "FLOPs(G)": 0.32748672,
+    "average_time(ms)": 0.0,
+    "device": "CUDA: (NVIDIA GeForce RTX 3050 Ti Laptop GPU, 4095MiB)"
+}

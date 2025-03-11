@@ -1,0 +1,7 @@
+{
+    "model": "C3k2",
+    "Parameters(M)": 0.015904,
+    "FLOPs(G)": 0.815661056,
+    "average_time(ms)": 3153.982996940613,
+    "device": "CUDA: (Quadro RTX 4000, 8191MiB)"
+}

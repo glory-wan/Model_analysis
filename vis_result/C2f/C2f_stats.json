@@ -1,0 +1,7 @@
+{
+    "model": "C2f",
+    "Parameters(M)": 0.025152,
+    "FLOPs(G)": 1.281294336,
+    "average_time(ms)": 3114.7056818008423,
+    "device": "CUDA: (Quadro RTX 4000, 8191MiB)"
+}
