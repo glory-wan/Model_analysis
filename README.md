@@ -1,8 +1,8 @@
 # An Test Tool for Module Analysis
 
-**function**
-
 ------
+
+**Description：**
 
 1. Calculate the number of parameters and floating point of the model, as well as the model inference time
 2. Visual feature map
@@ -25,6 +25,8 @@ torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0
 
 
 **Quickly Start**
+
+------
 
 run compute_model_info.py 
 
@@ -67,11 +69,11 @@ if __name__ == '__main__':
 
 visualization of some famous backbone
 
-![1](assets\1.jpg)
+![1](assets/1.jpg)
 
 visualization of some famous block/Conv operation
 
-![2](assets\2.jpg)
+![2](assets/2.jpg)
 
 ## Supported models
 
