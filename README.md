@@ -43,11 +43,11 @@ from model.block import *
 if __name__ == '__main__':
     
     # Calculating custom model
-    model = C2fCIB(c1=3, c2=64)  # replace your model/module
+    model = C3k2(c1=3, c2=64)  # replace your model/module
     computing_info(
         images_dir="./images",
         output_dir='./vis_result',
-        model_name='C2fCIB',   # replace your model name
+        model_name='C3k2',   # replace your model name
         device='cpu',
         model=model,
     )
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     computing_info(
         images_dir="./images",
         output_dir='./vis_result',
-        model_name='C2fCIB',  
+        model_name='resnet50',  
         device='cpu',
         model=model,
     )
